@@ -21,5 +21,5 @@ This project is a custom-built Hospital Management System (HMS) developed in a S
 
 - Designing real-world hospital workflows using Salesforce Flows  
 - Managing object relationships like Patient ↔ Appointment ↔ Doctor  
-- Implementing email automation and scheduled flows  
+- Implementing email alerts and flows  
 - Debugging flow issues and handling email delivery challenges
