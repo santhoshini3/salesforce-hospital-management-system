@@ -27,27 +27,27 @@ This project is a custom-built Hospital Management System (HMS) developed in a S
 ## Screenshots
 
 1. **App Launcher – Search Hospital Management System**  
-   ![App Launcher](Screenshot 2025-07-03 202850.png)
+   ![App Launcher](app_launcher.png)
 
 2. **Custom Objects Included**  
    _(Appointment, Patient, Doctor, Medical Record, Prescription, Billing, etc.)_  
-   ![Custom Objects](Screenshot 2025-07-03 195336.png)
+   ![Custom Objects](custom_objects.png)
 
 3. **Create Appointment Flow (Screen Flow)**  
-   ![Create Appointment Flow](Screenshot 2025-07-03 201336.png)
+   ![Create Appointment Flow](create_appointment_flow.png)
 
 4. **Auto Medical Record Creation Flow**  
    _Triggered when an appointment is scheduled._  
-   ![Medical Record Flow](Screenshot 2025-07-03 201555.png)
+   ![Medical Record Flow](auto_medical_record.png)
 
 5. **Notify Doctor via Email Flow**  
    _Email alert sent to the assigned doctor._  
-   ![Notify Doctor](Screenshot 2025-07-03 201445.png)
+   ![Notify Doctor](notify_doctor.png)
 
 6. **Auto Billing on Treatment Completion**  
    _Billing record automatically created when treatment is completed._  
-   ![Auto Billing](Screenshot 2025-07-03 201527.png)
+   ![Auto Billing](auto_billing.png)
 
 7. **Generate Prescription on Treatment Completion**  
    _Creates a prescription record automatically once treatment is completed._  
-   ![Prescription Flow](Screenshot 2025-07-03 201634.png)
+   ![Prescription Flow](generate_prescription.png)
