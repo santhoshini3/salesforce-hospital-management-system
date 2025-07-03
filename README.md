@@ -51,3 +51,11 @@ This project is a custom-built Hospital Management System (HMS) developed in a S
 7. **Generate Prescription on Treatment Completion**  
    _Creates a prescription record automatically once treatment is completed._  
    ![Prescription Flow](generate_prescription.png)
+
+8. **Hospital Admin Dashboard**    
+   ![Dashboard](dashboard.png)
+
+9. **Dashboard View**  
+   _Displays key metrics and patient insights._  
+   ![Dashboard](dashboard1.png)
+
