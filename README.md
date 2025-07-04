@@ -57,5 +57,5 @@ This project is a custom-built Hospital Management System (HMS) developed in a S
 
 9. **Dashboard View**  
    _Displays key metrics and patient insights._  
-   ![Dashboard](dashboard1.png)
+   ![Dashboard](dashboard_view.png)
 
