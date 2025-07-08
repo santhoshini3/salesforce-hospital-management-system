@@ -37,29 +37,29 @@ This project is a custom-built Hospital Management System (HMS) developed in a S
    A screen flow that collects patient, doctor, and date inputs to create a new appointment.
    ![Create Appointment Flow](create_appointment_flow.png)
 
-5. **Auto Medical Record Creation Flow**  
+4. **Auto Medical Record Creation Flow**  
    Triggered when an appointment is created, automatically generates a related medical record. 
    ![Medical Record Flow](auto_medical_record.png)
 
-6. **Notify Doctor via Email Flow**  
+5. **Notify Doctor via Email Flow**  
    Sends an automated email to the assigned doctor with appointment details upon creation.  
    ![Notify Doctor](notify_doctor.png)
 
-7. **Auto Billing on Treatment Completion**  
+6. **Auto Billing on Treatment Completion**  
    When a treatment is marked as completed, this flow creates an unpaid billing record.  
    ![Auto Billing](auto_billing.png)
 
-8. **Generate Prescription on Treatment Completion**  
+7. **Generate Prescription on Treatment Completion**  
    Creates a prescription record with medicines and notes when treatment is completed.  
    ![Prescription Flow](generate_prescription.png)
 
-9. **Send Appointment Reminder to Patient**
+8. **Send Appointment Reminder to Patient**
    Sends a reminder email to the patient one day before their scheduled appointment.  
    ![Appointment Reminder Flow](reminder_to_Patient.png)
 
-10. **Hospital Admin Dashboard**    
+9. **Hospital Admin Dashboard**    
    ![Dashboard](dashboard.png)
 
-11. **Dashboard View**  
+10. **Dashboard View**  
    _Displays key metrics and patient insights._  
    ![Dashboard](dashboard_view.png)
