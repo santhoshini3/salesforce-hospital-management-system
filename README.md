@@ -53,9 +53,13 @@ This project is a custom-built Hospital Management System (HMS) developed in a S
    Creates a prescription record with medicines and notes when treatment is completed.  
    ![Prescription Flow](generate_prescription.png)
 
-9. **Hospital Admin Dashboard**    
+9. **Send Appointment Reminder to Patient**
+   Sends a reminder email to the patient one day before their scheduled appointment.  
+   ![Appointment Reminder Flow](reminder_to_Patient.png)
+
+10. **Hospital Admin Dashboard**    
    ![Dashboard](dashboard.png)
 
-10. **Dashboard View**  
+11. **Dashboard View**  
    _Displays key metrics and patient insights._  
    ![Dashboard](dashboard_view.png)
